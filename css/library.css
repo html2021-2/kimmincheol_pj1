@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body{text-align: center;}
+
+/* header */
+#header div{position: relative; margin: 5px auto; width: 750px; height: 100px;}
+#search{line-height: 100px; background: url("../images/07_library/search03.png") no-repeat center; border: none; font-size: 24px; text-align: center;position: relative;}
+#search + a{background: url("../images/07_library/search_blue.png") no-repeat center; background-size: contain; width: 50px; height: 50px; position: absolute; right: 20px; top: 15px;}
+
+#header{width: 100%; height: 1000px; margin: 0 auto;}
+#header h1{font-size: 80px;}
+
+/* cnt1 */
+/* cnt2 */
+/* cnt3 */
